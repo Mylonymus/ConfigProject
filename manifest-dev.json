@@ -1,0 +1,16 @@
+{
+  "experiencia": {
+    "remoteEntry": "http://experiencia.dev.druni.wan/remoteEntry.js",
+    "exposedModule": "./ExperienciaModule",
+    "routePath": "experiencia",
+    "ngModuleName": "ExperienciaModule",
+    "isStandalone": false
+  },
+  "regalos": {
+    "remoteEntry": "http://regalos.dev.druni.wan/remoteEntry.js",
+    "exposedModule": "./RegalosModule",
+    "routePath": "regalos",
+    "ngModuleName": "RegalosModule",
+    "isStandalone": false
+  }
+}

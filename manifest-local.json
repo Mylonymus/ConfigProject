@@ -1,0 +1,16 @@
+{
+  "experiencia": {
+    "remoteEntry": "http://localhost:81/remoteEntry.js",
+    "exposedModule": "./ExperienciaModule",
+    "routePath": "experiencia",
+    "ngModuleName": "ExperienciaModule",
+    "isStandalone": false
+  },
+  "regalos": {
+    "remoteEntry": "http://localhost:82/remoteEntry.js",
+    "exposedModule": "./RegalosModule",
+    "routePath": "regalos",
+    "ngModuleName": "RegalosModule",
+    "isStandalone": false
+  }
+}
