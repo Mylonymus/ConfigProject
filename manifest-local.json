@@ -8,9 +8,9 @@
   },
   "regalos": {
     "remoteEntry": "http://localhost:82/remoteEntry.js",
-    "exposedModule": "./RegalosModule",
+    "exposedModule": "./AppModule",
     "routePath": "regalos",
-    "ngModuleName": "RegalosModule",
+    "ngModuleName": "AppModule",
     "isStandalone": false
   }
 }
